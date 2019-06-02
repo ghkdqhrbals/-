@@ -15,17 +15,6 @@
 * [링크로 소스 내용 보기](https://github.com/ghkdqhrbals/computerSystem/blob/master/a.py) 
 
 * 코드 삽입
-#-------------------------------------------------------------------------------
-#-*- coding:utf-8 -*-
-# Name:        module1
-# Purpose:
-#
-# Author:      ghkdq
-#
-# Created:     16-05-2019
-# Copyright:   (c) ghkdq 2019
-# Licence:     <your licence>
-#-------------------------------------------------------------------------------
 import pandas as pd
 import tkinter as tk
 import tkinter.font
@@ -108,13 +97,6 @@ window.mainloop()
 ##infile = codecs.open('final2.csv','r',encoding='utf-8')
 
 ##for line in infile:
-##    line = line.replace(u'\xa0', ' ')
-##    print(line)
 
 
 ##infile.close()
-
-
-
-
-print(u'우아아아')
