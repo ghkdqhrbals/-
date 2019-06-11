@@ -7,7 +7,7 @@
 
 ## 프로젝트 개요
 파이썬으로 공공데이터를 활용한 휴게소종합정보 제공 서비스
-[발표자료]()
+[발표자료](https://github.com/ghkdqhrbals/computerSystem/blob/master/%EC%BB%B4%EC%8B%9C%EC%9E%85%EA%B8%B0%EB%A7%90%EB%B0%9C%ED%91%9C201424559.pptx)
 ## 사용한 공공데이터 
 [데이터보기](https://github.com/ghkdqhrbals/computerSystem/blob/master/3.csv)
 
