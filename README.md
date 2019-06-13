@@ -10,6 +10,151 @@
 [발표자료](https://github.com/ghkdqhrbals/computerSystem/blob/master/%EC%BB%B4%EC%8B%9C%EC%9E%85%EA%B8%B0%EB%A7%90%EB%B0%9C%ED%91%9C201424559.pptx)
 1. input창에 자신이 원하는 고속도로 입력
 2. 정보 출력
+
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  기간
+
+
+  
+  
+  개요
+
+
+  
+  
+  상세설명
+
+
+  
+ 
+ 
+  
+  sprint 1
+
+
+  
+  
+  4.30~5.6
+
+
+  
+  
+  공공데이터 받아오기
+
+
+  
+  
+  www.data.go.kr에 접속한 뒤 전국 고속도로 휴게소 표준 데이터 csv파일 다운 및 파이썬에 적용
+
+
+  
+ 
+ 
+  
+  sprint 2
+
+
+  
+  
+  5.6~5.13
+
+
+  
+  
+  Pandas 설치
+  및 csv파일 정리
+
+
+  
+  
+  파이썬 데이터 모듈 pandas를 pip로
+  설치 한 뒤, 공공데이터 csv파일을 읽고 필요한 column을 추출.
+
+
+  
+ 
+ 
+  
+  sprint 3
+
+
+  
+  
+  5.13~5.20
+
+
+  
+  
+  tkinter그래픽
+  모듈 사용
+
+
+  
+  
+  내장되있는 tkinter
+  그래픽 모듈을 사용해 window창에 학번이름,
+  휴게소 정보,
+  input text 구현
+
+
+  
+ 
+ 
+  
+  sprint 4
+
+
+  
+  
+  5.20~5.27
+
+
+  
+  
+  정보 찾기 함수 구현
+
+
+  
+  
+  window 창에 input
+  text에 따른 string값을 받아와 휴게소 정보를 찾는 find
+  함수 구현
+
+
+  
+ 
+ 
+  
+  sprint 5
+
+
+  
+  
+  5.27~6.4
+
+
+  
+  
+  기말보고서 착수
+
+
+  
+  
+  기말 보고서 착수.
+
+
+  
+ 
+
+
 ## 사용한 공공데이터 
 [데이터보기](https://github.com/ghkdqhrbals/computerSystem/blob/master/3.csv)
 
